@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Yen Hang Zhou"
-title_separator          : ""
+title_separator          : "-"
 name                     : &name "Yen Hang Zhou"
 description              : &description "Ph.D student at Tsinghua University"
 url                      : https://FrozenPenguinn.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
