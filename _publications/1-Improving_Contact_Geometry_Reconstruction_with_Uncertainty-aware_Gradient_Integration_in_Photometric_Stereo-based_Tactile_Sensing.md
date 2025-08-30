@@ -2,9 +2,10 @@
 title: "Improving Contact Geometry Reconstruction with Uncertainty-aware Gradient Integration in Photometric Stereo-based Tactile Sensing"
 collection: publications
 category: manuscripts
+status: "rev"  # e.g. pub, acc, rev, sub
 permalink: # URL
 # permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: "In revision to _IEEE Sensors Journal_, May. 2025.<br/><img src='/images/1-ga.png'>"
+excerpt: "This article presents an uncertainty-aware integration method for photometric stereo-based tactile sensing. By modeling the reliability of each estimated gradient and weighting them accordingly, the proposed approach improves contact surface reconstruction accuracy and robustness against noise and shadows.<br/><img src='/images/1-ga.png'>"
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2025-05-25
 # venue: 'IEEE Sensors Journal'
